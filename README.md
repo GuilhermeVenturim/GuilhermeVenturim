@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte.
 - 🌱 Estou estudando desenvolvimento Web Full Stack JavaScript.
-- - 😄 Pronouns: ele/dele.
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/GuilhermeVenturim">
