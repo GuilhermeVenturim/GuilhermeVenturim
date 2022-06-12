@@ -4,12 +4,12 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte.
 - 🌱 Estou estudando desenvolvimento Web Full Stack JavaScript.
-- 😄 Pronouns: ele/dele.
+- 😄 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/GuilhermeVenturim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVenturim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVenturim&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVenturim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVenturim&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
