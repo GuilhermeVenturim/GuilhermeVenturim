@@ -3,8 +3,8 @@
 
 
 - 🔭 Atualmente trabalho como Analista de Suporte.
-- 🌱 Estou estudando desenvolvimento Web Full Stack JavaScript.
-- 😄 Pronomes: ele/dele.
+- 🌱 Estou cursando ADS.
+- 😄 Aprendendo Python.
 
 <div align="center">
   <a href="https://github.com/GuilhermeVenturim">
