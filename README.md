@@ -3,7 +3,7 @@
 
 
 - 🔭 QA.
-- 🌱 Estou cursando ADS.
+
 
 <div align="center">
   <a href="https://github.com/GuilhermeVenturim">
