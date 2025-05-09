@@ -2,9 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho como Analista de Suporte.
+- 🔭 QA.
 - 🌱 Estou cursando ADS.
-- 😄 Aprendendo Python.
 
 <div align="center">
   <a href="https://github.com/GuilhermeVenturim">
